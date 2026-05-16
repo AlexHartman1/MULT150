@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ahartman_hour14.unity
+    guid: 75f60036f4df8eb43bf1124d3f3ce230
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: f6fa946b7e9119548b62fafa6bd152f4
+  - enabled: 1
+    path: Assets/Scenes/TIY_14.unity
+    guid: 76ced31bfe0215e4ba042a03b99f438e
+  - enabled: 1
+    path: Assets/Scenes/ahartman_hour16.unity
+    guid: a54a7093c3339ca4a965419f1a7ee642
+  m_configObjects: {}
