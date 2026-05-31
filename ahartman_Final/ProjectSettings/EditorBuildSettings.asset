@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: a8679beea7381384c94b2e726bf781e6
+  - enabled: 1
+    path: Assets/Scenes/ahartman_FINAL.unity
+    guid: 542df4b8972bdff478a7e403fc500cb2
   m_configObjects: {}
